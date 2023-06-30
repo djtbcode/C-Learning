@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main() {
-    cout << "Please enter Pre tax sales:";
+    cout << "Please enter Pre-tax sales:";
     double sales;
     cin >> sales;
     cout << "total sales = $" << sales << endl;
