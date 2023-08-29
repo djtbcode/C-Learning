@@ -3,7 +3,8 @@
 using namespace std;
 
 
-int main() {
+int main() 
+{
     cout << "Please enter Pre-tax sales:";
     double sales;
     cin >> sales;
